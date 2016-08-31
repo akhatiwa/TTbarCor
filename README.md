@@ -1,3 +1,3 @@
 # TTbarCor
 
-This version consists of preliminary distributions for TTbar system.
+This directory consists of preliminary distributions for TTbar system.

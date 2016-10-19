@@ -1,3 +1,3 @@
 # TTbarCor
 
-This directory consists of preliminary distributions for TTbar system.
+This directory consists of ttbar analysis package used by DESY top group --- and modified by Ajeeta.
